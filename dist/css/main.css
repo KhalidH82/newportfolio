@@ -187,6 +187,9 @@ main {
   padding: 0.5rem;
   border-bottom: #1a9dee 5px solid; }
 
+.pdf {
+  padding: 5px; }
+
 li {
   list-style: none;
   text-align: center; }
