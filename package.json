@@ -12,10 +12,7 @@
     "license": "ISC",
     "dependencies": {
         "gh-pages": "^1.2.0",
-<<<<<<< HEAD
-        "node-sass": "^4.9.2"
-=======
+        "node-sass": "^4.9.2",
         "node-sass": "^4.9.3"
->>>>>>> f04312dfc7941584e1627103fac09601d68fe71d
     }
 }
